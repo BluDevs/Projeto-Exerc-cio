@@ -1,0 +1,4 @@
+nome:Gabriel Henrique Bonelli
+idade:19 anos
+série:Ensino medio completo 
+livro e filme preferidos:velozes e furiosos
